@@ -1,0 +1,230 @@
+/* TAG CSS */
+
+body
+{
+  font-family:monospace; /*'Press Start 2P', cursive;*/
+  margin:0;
+
+}
+
+h1
+{
+  margin:0;
+  font-size:40px;
+}
+
+h2
+{
+  font-size:35px;
+  margin: 0;
+}
+
+h3
+{
+  margin: 0;
+}
+
+h4
+{
+  margin:0;
+}
+
+a
+{
+  color:white;
+  text-decoration: none;
+}
+a:hover
+{
+  color:#FFC93C;
+}
+/* CLASS CSS */
+.connect
+{
+  background-color:#FF9A3C;
+  border-style:solid;
+  border-radius: 15px;
+  border-color:#FFC93C;
+  height:60px;
+
+  padding-left:20px;
+  width:430px;
+  margin:50px auto;
+}
+
+.card1
+{
+  display:inline-block;
+  position: relative;
+  left:45px;
+
+}
+.code_gif1
+{
+  height:150px;
+  width:150px;
+  float:right;
+}
+.text1
+{
+  position: relative;
+  top:40px;
+  left:70px;
+
+}
+.text2
+{
+  position: relative;
+  top:40px;
+  left:50px;
+}
+.top_card_1
+{
+  width:1200px;
+  margin: 0 auto;
+}
+.part3
+{
+  background-color: #FFC93C;
+  padding:10px 0;
+}
+
+.connect_text
+{
+  display:inline-block;
+  position: relative;
+  bottom:20px;
+}
+
+.social_gif
+{
+  width:60px;
+  height:60px;
+  margin:0;
+
+
+
+}
+
+.linkedin_gif
+{
+  width:45px;
+  height:40px;
+  position: relative;
+  bottom:8px;
+
+}
+.about
+{
+  text-decoration: underline;
+  width:15%;
+  margin: 0 auto;
+  padding:30px 0;
+}
+.card
+{
+  background-color:#FF6F3C;
+  /* display: inline-block; */
+  border-radius:15px;
+  border-style:solid;
+  border-color: #FFC93C;
+  height:150px;
+  width:550px;
+  margin: 50px auto;
+
+
+}
+.top-bar
+{
+  background-color:#155263;
+  padding:5px 0;
+
+
+}
+
+.copyright
+{
+  width:179.4px;
+  margin:0 auto;
+}
+.top_text_card
+{
+  padding-bottom:10px;
+}
+.text
+{
+
+  position: relative;
+  top:40px;
+  left:20px;
+
+}
+
+.code_gif
+{
+  height:150px;
+  width:150px;
+  float:left;
+}
+
+.invest_gif
+{
+  float: left;
+  width:20%;
+}
+
+.part1
+{
+  background-color:#FF6F3C;
+  /* position: relative;
+  top:39.33px; */
+}
+
+.white-text
+{
+  color:white;
+}
+
+.socials
+{
+  text-decoration: underline;
+  width:210px;
+  margin: 140px auto;
+}
+
+
+.iron_man
+{
+  height:13rem;
+  width:187.633px;
+  margin:0 auto;
+  padding:30px 0;
+  display: block;
+
+}
+
+.name
+{
+  margin:0 auto;
+  padding:30px 0;
+  width: 504px;
+}
+
+
+.part2
+{
+  background-color:#FF9A3C;
+  padding:20px;
+
+}
+
+/* ID CSS */
+
+#top_heading
+{
+  width:261.067px;
+  margin: 0 545px;
+  font-size: 45px;
+  /* display: block; */
+
+}
